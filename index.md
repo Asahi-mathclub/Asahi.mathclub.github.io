@@ -13,7 +13,7 @@
 
 9月ごろに行われ，部員が作成した Asahi Math Contest が行われます．
 
-### 資料館
+### [資料館](https://asahi-mathclub.github.io/homepage/document/)
 
 文化祭で行われた Asahi Math Contest の PDF などがアップロードされます．
 
