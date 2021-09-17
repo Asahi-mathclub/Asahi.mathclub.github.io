@@ -2,5 +2,5 @@
 
 ## 資料館
 
--第74回朝日祭 [AMC002](AMC002.pdf) <br />
--第73回朝日祭 [AMC001](AMC001.pdf)
+-第74回朝日祭 [AMC002](/pdf-file/AMC/AMC002.pdf) <br />
+-第73回朝日祭 [AMC001](/pdf-file/AMC/AMC001.pdf)
