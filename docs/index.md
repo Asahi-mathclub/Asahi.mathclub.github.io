@@ -1,10 +1,9 @@
-# ようこそ岡山朝日数学同好会へ！
+# [ようこそ岡山朝日数学同好会へ！](https://asahi-mathclub.github.io/homepage/)
 
 ## 注意
 
 -このホームページは岡山朝日高校非公式のものです．<br />
 -このホームページは現在制作途中のものです．
-
 
 ### 活動
 
@@ -21,27 +20,4 @@
 ### 更新履歴
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-3. 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
