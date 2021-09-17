@@ -17,7 +17,7 @@
 
 文化祭で行われた Asahi Math Contest の PDF などがアップロードされます．
 
-### 更新履歴
+### [更新履歴](update)
 
 
 
