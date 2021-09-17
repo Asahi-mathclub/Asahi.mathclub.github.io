@@ -1,6 +1,25 @@
-## ようこそ岡山朝日数学同好会へ！
+# ようこそ岡山朝日数学同好会へ！
 
-現在はこのような状態ですが，いずれ完成させる予定です．
+## 注意
+
+*このホームページは岡山朝日高校非公式のものです．
+*このホームページは現在制作途中のものです．
+
+
+### 活動
+
+講義など
+
+### 文化祭
+
+9月ごろに行われ，部員が作成した　Asahi Math Contest が行われます．
+
+### 資料館
+
+文化祭で行われた　Asahi Math Contest の PDF などがアップロードされます．
+
+### 更新履歴
+
 
 ### Markdown
 
@@ -26,10 +45,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Asahi-mathclub/homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
