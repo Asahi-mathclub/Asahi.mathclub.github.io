@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ようこそ岡山朝日数学同好会へ！
 
 You can use the [editor on GitHub](https://github.com/Asahi-mathclub/homepage/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+3. 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
